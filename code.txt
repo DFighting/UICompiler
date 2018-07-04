@@ -1,0 +1,58 @@
+void functiona(float x, float a){
+  float v;
+  char m; char n;
+  bool p; bool q; bool r;
+  int i; int j;
+  if(a>x){
+       r=(((5>4)||q)&&(p||q));
+       v=(-5+5.2-2/3.0-1)+(3+4)/5;
+       }
+   do i=i+1; while(a<v);
+   do j=j-1; while(a>v);
+   return;
+}
+
+int functionb(char m, char n){
+  int a; int b;
+  int i; int j;
+  while(true){
+    float c; float d;
+    a=a+1; b=b+a;
+    c=a+b; d=a-b;
+    if(a>d)
+      break;
+  }
+  do i=i+1; while(a<b);
+  do j=j-1; while(a>b);
+  return i;
+}
+
+int main(int i, int j){ 
+  float v;float x; float a;
+  char m; char n;int c;
+  bool p; bool q; int d;
+  x=2.3; a=4.5;
+  functiona(x,a);
+  d=functionb(m,n);
+  bool r;
+  r=(((5>4)||q)&&(p||q));
+  v=(-5+5.2-2/3.0-1)+(3+4)/5;
+  while(true) { 
+    int i; int j;
+    do i=i+1; while(a<v);
+	do j=j-1; while(a>v);
+	a=v+5/4-5;
+	if(c>d)
+	  break;
+	else if(true)
+	    break;
+	    else if(m==n)
+	         break;
+	         else if(!((((5>(4+a))||q)&&(p||q))))
+	              break;
+	  
+	if(i>=j) 
+	   break;
+  }
+  return c;
+} 
